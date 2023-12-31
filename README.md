@@ -14,8 +14,8 @@ This repository contains my implementation of the Ataxx board game for the UC Be
 ## Installation
 To run this project, clone the repository and compile the Java files.
 ```bash
-git clone [URL to this repo]
-cd [repository name]
+git clone https://github.com/PeterChoi7/ataxx.git
+cd ataxx
 javac *.java
 ```
 
