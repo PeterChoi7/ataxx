@@ -1,0 +1,5 @@
+#* java -ea ataxx.Main
+auto red
+auto blue
+#*move/win+
+quit
